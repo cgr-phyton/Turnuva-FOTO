@@ -1,12 +1,15 @@
 # Turnuva-FOTO
 # FLL Robot Projesi
 
-Bu proje FIRST LEGO League Challenge yarışması için yapılmıştır.
+## Hakkında
+Bu proje FIRST LEGO League Challenge yarışması için geliştirilmiştir.
 
-Özellikler:
-- Robot görev sistemi
-- Sensör kullanımı
-- LEGO Spike kodlama
-- Otonom hareket
+## Başarılar
+- Bölge 4.lüğü
+- Robot Tasarım Birinciliği
+- Uluslararası turnuva özel davet bileti
 
-Takımımız bölge 4.sü oldu ve robot tasarım 1.lik ödülü aldı.
+## Kullanılan Teknolojiler
+- LEGO Spike Prime
+- Sensör sistemleri
+sözcük blokları ile kodlama
