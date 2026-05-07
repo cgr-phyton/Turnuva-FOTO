@@ -9,4 +9,4 @@ Bu proje FIRST LEGO League Challenge yarışması için yapılmıştır.
 - LEGO Spike kodlama
 - Otonom hareket
 
-Takımımız bölge 4.sü oldu ve robot tasarım ödülü aldı.
+Takımımız bölge 4.sü oldu ve robot tasarım 1.lik ödülü aldı.
